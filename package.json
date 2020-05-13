@@ -1,0 +1,12 @@
+{
+  "name": "data-server",
+  "version": "1.0.0",
+  "description": "An example of a Node server using peristent data ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kansas State University CIS 526 Student",
+  "license": "MIT"
+}
